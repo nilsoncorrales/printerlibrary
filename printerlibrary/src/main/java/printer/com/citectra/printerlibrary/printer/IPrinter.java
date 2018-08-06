@@ -2,8 +2,8 @@ package printer.com.citectra.printerlibrary.printer;
 
 import java.util.ArrayList;
 
-import printer.com.citectra.myprinter.entities.TextPrint;
-import printer.com.citectra.myprinter.interfaces.ILinea;
+import printer.com.citectra.printerlibrary.entities.TextPrint;
+import printer.com.citectra.printerlibrary.interfaces.ILinea;
 
 /**
 public interface IBixolon {

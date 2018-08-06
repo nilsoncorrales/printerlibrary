@@ -1,9 +1,7 @@
 package printer.com.citectra.printerlibrary.entities;
-
-
-import printer.com.citectra.myprinter.constantes.Constantes;
-import printer.com.citectra.myprinter.interfaces.ILinea;
-import printer.com.citectra.myprinter.utils.FuncionesPrint;
+import printer.com.citectra.printerlibrary.constantes.Constantes;
+import printer.com.citectra.printerlibrary.interfaces.ILinea;
+import printer.com.citectra.printerlibrary.utils.FuncionesPrint;
 
 /**
  * Created by innovaapps on 7/4/2016.

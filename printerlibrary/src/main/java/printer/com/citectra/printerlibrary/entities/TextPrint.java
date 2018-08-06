@@ -1,7 +1,7 @@
 package printer.com.citectra.printerlibrary.entities;
 
-import printer.com.citectra.myprinter.interfaces.ILinea;
-import printer.com.citectra.myprinter.printer.MODO;
+import printer.com.citectra.printerlibrary.interfaces.ILinea;
+import printer.com.citectra.printerlibrary.printer.MODO;
 
 public class TextPrint {
 

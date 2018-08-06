@@ -20,7 +20,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import printer.com.citectra.myprinter.enums.IDUTILS;
+import printer.com.citectra.printerlibrary.enums.IDUTILS;
 
 /**
  * Created by innovaapps on 18/10/2016.

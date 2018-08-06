@@ -21,9 +21,9 @@ import com.rt.printerlibrary.utils.PrinterPowerUtil;
 import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 
-import printer.com.citectra.myprinter.constantes.Constantes;
-import printer.com.citectra.myprinter.entities.TextPrint;
-import printer.com.citectra.myprinter.interfaces.ILinea;
+import printer.com.citectra.printerlibrary.constantes.Constantes;
+import printer.com.citectra.printerlibrary.entities.TextPrint;
+import printer.com.citectra.printerlibrary.interfaces.ILinea;
 
 public class Printer implements IPrinter {
 
