@@ -21,6 +21,17 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+//    git set-url origin https://github.com/nilsoncorrales/printerlibrary.git
+    //    TODO : REFERENCIA LIBRERÍAS.SO NATIVAS (probably..)
+    sourceSets {
+        main {
+//            manifest.srcFile 'AndroidManifest.xml'
+            jniLibs.srcDirs = ['libs']
+            //    java.srcDirs = ['src']
+//            resources.srcDirs = ['src']
+            assets.srcDirs = ['assets']
+        }
+    }
 
 }
 
